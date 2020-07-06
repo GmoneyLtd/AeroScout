@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2020/7/6 5:30 PM
+# @Author  : Jinlin
+# @File    : message.py
+# @Project : AreoScout
+
+
 from helper import *
 import struct
 from tabulate import tabulate
